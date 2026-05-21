@@ -146,7 +146,7 @@ nav ul li:last-child a {
     background-color: orange;
     border: 3px solid black;
     top: 0;
-    right: 0;
+    left: 0;
     display: flex;
     justify-content: center;
     align-items: center;
