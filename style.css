@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
  
-  outline:1px solid red;
+  /* outline:1px solid red; */
 
 }
 
@@ -129,7 +129,7 @@ nav ul li:last-child a {
     position: fixed;
     top: 0;
     width: 200px;
-    height: 200vh;
+    height: 3200vh;
     right: -100%;
     background-color: #f7019c;
     padding: 30px;
@@ -149,7 +149,7 @@ nav ul li:last-child a {
     background-color: orange;
     border: 3px solid black;
     top: 0;
-    left: 0;
+    right: 0;
     display: flex;
     justify-content: center;
     align-items: center;
