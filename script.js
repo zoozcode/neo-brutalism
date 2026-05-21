@@ -5,7 +5,7 @@ function loading() {
   setTimeout(function () {
     loading.style.display = "none";
     isi.style.display = "block";
-  }, 6000);
+  }, 5000);
 
   loading.style.display = "flex";
   isi.style.display = "none";
