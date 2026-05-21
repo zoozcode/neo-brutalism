@@ -128,8 +128,8 @@ nav ul li:last-child a {
   .container {
     position: fixed;
     top: 0;
-    width: 200px;
-    height: 3200vh;
+    width: 300px;
+    height: 200vh;
     right: -100%;
     background-color: #f7019c;
     padding: 30px;
