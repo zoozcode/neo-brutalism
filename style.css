@@ -341,7 +341,7 @@ nav ul li:last-child a {
 
 @media (max-width: 768px) {
   .about {
-    min-width: 400px;
+    min-width: 100%;
   }
 
   .about .main {
@@ -676,7 +676,7 @@ nav ul li:last-child a {
     font-size: 24px;
   }
   .journey .card {
-    width: 300px;
+    min-width: 100%;
   }
 }
 
