@@ -755,6 +755,9 @@ footer .sosmed .btn5 a {
     /* padding: 40px; */
   }
 
+  footer .name{
+    width: 250px;
+  }
   footer .navigasi {
     margin: 40px 0px;
   }
