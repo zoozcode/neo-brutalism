@@ -1,3 +1,4 @@
+// loading
 function loading() {
   const loading = document.querySelector(".loading");
   const isi = document.querySelector(".isi");
@@ -12,6 +13,8 @@ function loading() {
 }
 loading();
 
+
+// paper
 function paper() {
   const paper = document.getElementById("paper");
 
@@ -22,8 +25,9 @@ function paper() {
     paper.append(box);
   }
 }
-
 paper();
+
+// navbar
 let btn = document.querySelectorAll(".tab");
 function navbar() {
   const open = document.getElementById("open");
@@ -47,9 +51,9 @@ function navbar() {
     });
   });
 }
-
 navbar();
 
+// tombol 3 portofolio, sertifikat, skill
 const pro = document.querySelector(".pro");
 const sertif = document.querySelector(".sertif");
 const skil = document.querySelector(".skil");
@@ -71,5 +75,4 @@ function button() {
     skil.style.display = "flex";
   });
 }
-
 button();
